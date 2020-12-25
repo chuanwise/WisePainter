@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WisePainter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WisePainter_jar</output-path>
+    <root id="archive" name="WisePainter.jar">
+      <element id="module-output" name="WisePainter" />
+    </root>
+  </artifact>
+</component>
